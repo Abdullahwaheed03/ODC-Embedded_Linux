@@ -1,0 +1,3 @@
+stdout is the standard output buffer which is used to out data from computer to terminal like the response of commands 
+
+stdin standard input buffer that takes input from terminal and pass it to shell to perform operations on it 
